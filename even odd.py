@@ -1,4 +1,4 @@
-
+#ternory operator 
 
 a=int(input("enter a value for A:"))
 
